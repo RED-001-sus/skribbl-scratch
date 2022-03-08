@@ -5,7 +5,7 @@ Skribbl.io remake in Scratch. The current version will be 0.1 beta (one I releas
 
 Play with up to 8 people in a room and try to guess what someone is drawing!
 Use your mouse to draw when it is your turn, and use the keyboard to chat or guess what the word is.
-Mobile is currently unavailable (sorry COD mobile sweats).
+Mobile is currently unavailable (sorry all you Scratch mobile users).
 
 # How to build
 
