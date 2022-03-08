@@ -1,7 +1,13 @@
-# skribbl-scratch
-Skribbl.io remake in Scratch
+# skribbl.io Scratch remake
+Skribbl.io remake in Scratch. Current version is v0.1 beta
 
-#How to build
+# Playing the game
+
+Play with up to 8 people in a room and try to guess what someone is drawing!
+Use your mouse to draw when it is your turn, and use the keyboard to chat or guess what the word is.
+Mobile is currently unavailable (sorry COD mobile sweats).
+
+# How to build
 
 - Download the code from https://github.com/3DSdev/skribbl-scratch (which you are probably on right now)
 ![Downloading the repo](https://github.com/3DSdev/skribbl-scratch/blob/main/media/download-repo.png?raw=true)
