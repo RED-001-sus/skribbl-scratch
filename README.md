@@ -4,7 +4,7 @@ Skribbl.io remake in Scratch
 #How to build
 
 - Download the code from https://github.com/3DSdev/skribbl-scratch (which you are probably on right now)
-![Downloading the repo](https://github.com/3DSdev/skribbl-scratch/blob/main/media/download-repo.png?raw=true"Downloading the repo")
+![Downloading the repo](https://github.com/3DSdev/skribbl-scratch/blob/main/media/download-repo.png?raw=true)
 - Extract the downloaded archive
 - Go to the skribbl-scratch master folder and then the src folder from the extracted archive
 - Take all of the files in the src folder and compress it into a zip file
