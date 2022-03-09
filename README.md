@@ -1,7 +1,9 @@
 ![Skribbl.io thumbnail](https://github.com/3DSdev/skribbl-scratch/blob/main/media/thumbnail.png?raw=true)
 
 # skribbl.io Scratch remake
-Skribbl.io remake in Scratch. The current version will be 0.1 beta (one I release it that is). When I do release it, there will be an .HTML file for just opening and playing in the browser, and a .zip file with all the assets seperated (for website use only), as well as 16:9 aspect ratio files so the game can fit your screen (Scratch has a default of 4:3), and of course the normal archived source files that come with every release AND .sb3 files for opening in Scratch/TurboWarp (I think I will have a 16:9 version of that too, only playable in TurboWarp though).
+Skribbl.io remake in Scratch.
+The current version will be 0.1 beta (one I release it that is).
+When I do release it, there will be an .HTML file for just opening and playing in the browser, and a .zip file with all the assets seperated (for website use only), as well as 16:9 aspect ratio files so the game can fit your screen (Scratch has a default of 4:3), and of course the normal archived source files that come with every release AND .sb3 files for opening in Scratch/TurboWarp (I think I will have a 16:9 version of that too, only playable in TurboWarp though).
 
 # Playing the game
 
@@ -19,3 +21,13 @@ Mobile is currently unavailable (sorry all you Scratch mobile users).
 - Go to the zip file and rename the file extension to .sb3 (make sure you have the show file extensions option on). You should also probably rename the file to skribbl.io or something if you want (but it's optional)
 - Go to some kind of Scratch project player (such as TurboWarp or just normal Scratch).
 - I guess try to play or something, maybe remix/fork it?
+
+# Licensing
+
+Scratch and all projects made with it are licensed under Creative Commons Attribution Share-Alike license 2.0 (CC-BY-SA).
+
+With a Creative Commons license, anyone is free to remix, download, distribute, and make commercial use of the project. They must meet two conditions: They must give credit without endorsing themselves or the original creator, and they must also distribute the work under the same license. In the case of Scratch, that is not a problem. In addition to this, users should never copy another user's work exactly. That can be classified as a form of spam.
+
+| You are free to:                                                    | Under the following terms:
+| ------------------------------------------------------------------- |
+| Share — copy and redistribute the material in any medium or format. | Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. |
