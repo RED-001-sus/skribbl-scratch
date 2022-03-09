@@ -39,6 +39,7 @@ With a Creative Commons license, anyone is free to remix, download, distribute, 
 | ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.                                                                                  |
 
 **Scratch Rights Waived**
+
 Under this license, as the creator, you cannot prevent another user from downloading, remixing, or otherwise being able to access some part of the program. You agree to this when you upload your project to the Scratch website.
 
 (taken from https://en.scratch-wiki.info/wiki/Scratch_Project_License)
@@ -47,6 +48,7 @@ Under this license, as the creator, you cannot prevent another user from downloa
 https://skribbl.io/terms
 
 **Skribbl.io Use License:**
+
 Permission is granted to temporarily download one copy of the materials (information or software) on skribbl.io's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 modify or copy the materials;
 use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
