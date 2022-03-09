@@ -3,21 +3,24 @@
 # Table of Contents
 
 1. [skribbl.io Scratch Remake](#1)
+2. [Playing the Game](#2)
+3. [How to Build](#3)
+4. [Licensing](#4)
+5. [Credits](#5)
 
-##1
-# skribbl.io Scratch remake
+# skribbl.io Scratch remake <a name="1"></a>
 
 Skribbl.io remake in Scratch.
 The current version will be 0.1 beta (one I release it that is).
 When I do release it, there will be an .HTML file for just opening and playing in the browser, and a .zip file with all the assets seperated (for website use only), as well as 16:9 aspect ratio files so the game can fit your screen (Scratch has a default of 4:3), and of course the normal archived source files that come with every release AND .sb3 files for opening in Scratch/TurboWarp (I think I will have a 16:9 version of that too, only playable in TurboWarp though).
 
-# Playing the game
+# Playing the game <a name="2"></a>
 
 Play with up to 8 people in a room and try to guess what someone is drawing!
 Use your mouse to draw when it is your turn, and use the keyboard to chat or guess what the word is.
 Mobile is currently unavailable (sorry all you Scratch mobile users).
 
-# How to build
+# How to build <a name="3"></a>
 
 - Download the code from https://github.com/3DSdev/skribbl-scratch (which you are probably on right now)
 ![Downloading the repo](https://github.com/3DSdev/skribbl-scratch/blob/main/media/download-repo.png?raw=true)
@@ -28,7 +31,7 @@ Mobile is currently unavailable (sorry all you Scratch mobile users).
 - Go to some kind of Scratch project player (such as TurboWarp or just normal Scratch).
 - I guess try to play or something, maybe remix/fork it?
 
-# Licensing
+# Licensing <a name="4"></a>
 
 **Scratch Rights**
 
@@ -63,6 +66,6 @@ remove any copyright or other proprietary notations from the materials; or
 transfer the materials to another person or "mirror" the materials on any other server.
 This license shall automatically terminate if you violate any of these restrictions and may be terminated by skribbl.io at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
 
-# Credits:
+# Credits: <a name="5"></a>
 
 All art assets and sounds (but one) are made by ticedev (on Twitter), and all code is by me, @3DSdev (on GitHub). "tick.wav" sampled from "Ticking Clock, A.wav" by InspectorJ of Freesound.org (https://www.freesound.org/people/InspectorJ/sounds/343130). 
