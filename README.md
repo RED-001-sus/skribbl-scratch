@@ -1,3 +1,5 @@
+![Skribbl.io thumbnail](https://github.com/3DSdev/skribbl-scratch/blob/main/media/thumbnail.png?raw=true)
+
 # skribbl.io Scratch remake
 Skribbl.io remake in Scratch. The current version will be 0.1 beta (one I release it tht is).
 
