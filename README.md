@@ -6,7 +6,11 @@
 2. [Playing the Game](#2)
 3. [How to Build](#3)
 4. [Licensing](#4)
-5. [Credits](#5)
+   - [Scratch Rights](#4.1)
+   - [Scratch Rights Waived](#4.2)
+   - [Skribbl.io ToS](#4.3)
+   - [Skribbl.io Use License](#4.4)
+6. [Credits](#5)
 
 # skribbl.io Scratch remake <a name="1"></a>
 
@@ -33,7 +37,7 @@ Mobile is currently unavailable (sorry all you Scratch mobile users).
 
 # Licensing <a name="4"></a>
 
-**Scratch Rights**
+**Scratch Rights** <a name="4.1"></a>
 
 Scratch and all projects made with it are licensed under Creative Commons Attribution Share-Alike license 2.0 (CC-BY-SA).
 
@@ -47,16 +51,16 @@ With a Creative Commons license, anyone is free to remix, download, distribute, 
 | Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. |
 | ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.                                                                                  |
 
-**Scratch Rights Waived**
+**Scratch Rights Waived** <a name="4.2"></a>
 
 Under this license, as the creator, you cannot prevent another user from downloading, remixing, or otherwise being able to access some part of the program. You agree to this when you upload your project to the Scratch website.
 
 (taken from https://en.scratch-wiki.info/wiki/Scratch_Project_License)
 
-**Skribbl.io ToS:**
+**Skribbl.io ToS:** <a name="4.3"></a>
 https://skribbl.io/terms
 
-**Skribbl.io Use License:**
+**Skribbl.io Use License:** <a name="4.4"></a>
 
 Permission is granted to temporarily download one copy of the materials (information or software) on skribbl.io's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 modify or copy the materials;
@@ -65,6 +69,8 @@ attempt to decompile or reverse engineer any software contained on skribbl.io's 
 remove any copyright or other proprietary notations from the materials; or
 transfer the materials to another person or "mirror" the materials on any other server.
 This license shall automatically terminate if you violate any of these restrictions and may be terminated by skribbl.io at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+
+(oops, guess I should have read it first lol)
 
 # Credits: <a name="5"></a>
 
