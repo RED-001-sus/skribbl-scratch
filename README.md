@@ -1,7 +1,7 @@
 ![Skribbl.io thumbnail](https://github.com/3DSdev/skribbl-scratch/blob/main/media/thumbnail.png?raw=true)
 
 # skribbl.io Scratch remake
-Skribbl.io remake in Scratch. The current version will be 0.1 beta (one I release it that is).
+Skribbl.io remake in Scratch. The current version will be 0.1 beta (one I release it that is). When I do release it, there will be an .HTML file for just opening and playing in the browser, and a .zip file with all the assets seperated (for website use only), as well as 16:9 aspect ratio files so the game can fit your screen (Scratch has a default of 4:3), and of course the normal archived source files that come with every release and .sb3 files for opening in TurboWarp or Scratch or whatever you want to open with (I think I will have a 16:9 version of that too, only playable in TurboWarp though).
 
 # Playing the game
 
