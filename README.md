@@ -24,14 +24,37 @@ Mobile is currently unavailable (sorry all you Scratch mobile users).
 
 # Licensing
 
+**Scratch Rights**
+
 Scratch and all projects made with it are licensed under Creative Commons Attribution Share-Alike license 2.0 (CC-BY-SA).
 
 With a Creative Commons license, anyone is free to remix, download, distribute, and make commercial use of the project. They must meet two conditions: They must give credit without endorsing themselves or the original creator, and they must also distribute the work under the same license. In the case of Scratch, that is not a problem. In addition to this, users should never copy another user's work exactly. That can be classified as a form of spam.
 
-|                                                                                                          You are free to:                                                                                                                         |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:----------------|
-| Share — copy and redistribute the material in any medium or format.                                                                                                                                                                               |
-| Adapt — remix, transform, and build upon the material for any purpose, even commercially.                                                                                                                                                         |
-|                                                                                                    **Under the following terms:**                                                                                                                   |
-| Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.                 |
-| ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.                                                                                  |                
+|                                                                                                          **You are free to:**                                                                                                         |   |   |   |   |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|---|---|---|---|
+| Share — copy and redistribute the material in any medium or format.                                                                                                                                                               |   |   |   |   |
+| Adapt — remix, transform, and build upon the material for any purpose, even commercially.                                                                                                                                         |   |   |   |   |
+|                                                                                                    **Under the following terms:**                                                                                                   |   |   |   |   |
+| Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. |   |   |   |   |
+| ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.                                                                                  |   |   |   |   |
+
+**Scratch Rights Waived**
+Under this license, as the creator, you cannot prevent another user from downloading, remixing, or otherwise being able to access some part of the program. You agree to this when you upload your project to the Scratch website.
+
+(taken from https://en.scratch-wiki.info/wiki/Scratch_Project_License)
+
+**Skribbl.io ToS:**
+https://skribbl.io/terms
+
+**Skribbl.io Use License:**
+Permission is granted to temporarily download one copy of the materials (information or software) on skribbl.io's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+modify or copy the materials;
+use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
+attempt to decompile or reverse engineer any software contained on skribbl.io's website;
+remove any copyright or other proprietary notations from the materials; or
+transfer the materials to another person or "mirror" the materials on any other server.
+This license shall automatically terminate if you violate any of these restrictions and may be terminated by skribbl.io at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+
+# Credits:
+
+All art assets and sounds (but one) are made by ticedev (on Twitter), and all code is by me, @3DSdev (on GitHub). "tick.wav" sampled from "Ticking Clock, A.wav" by InspectorJ of Freesound.org (https://www.freesound.org/people/InspectorJ/sounds/343130). 
