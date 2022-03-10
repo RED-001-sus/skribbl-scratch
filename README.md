@@ -29,11 +29,9 @@ Mobile is currently unavailable (sorry all you Scratch mobile users).
 - Download the code from https://github.com/3DSdev/skribbl-scratch (which you are probably on right now)
 ![Downloading the repo](https://github.com/3DSdev/skribbl-scratch/blob/main/media/download-repo.png?raw=true)
 - Extract the downloaded archive
-- Go to the skribbl-scratch master folder and then the src folder from the extracted archive
-- Take all of the files in the src folder and compress it into a zip file
-- Go to the zip file and rename the file extension to .sb3 (make sure you have the show file extensions option on). You should also probably rename the file to skribbl.io or something if you want (but it's optional)
-- Go to some kind of Scratch project player (such as TurboWarp or just normal Scratch).
-- I guess try to play or something, maybe remix/fork it?
+- Go to the skribbl-scratch master folder and then rename the archive's file extension inside the src folder to .sb3
+- Go to some kind of Scratch project player (such as TurboWarp or just normal Scratch) and load the .sb3 file
+- I guess try to play or something, maybe remix/fork it? It's up to you.
 
 # Licensing <a name="4"></a>
 
