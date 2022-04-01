@@ -14,6 +14,8 @@
 
 # skribbl.io Scratch remake <a name="1"></a>
 
+Sorry guys, I'm kinda busy at the moment and I probably won't be working on skribbl anytime soon. I guess this is an abandoned project for now.
+
 Skribbl.io remake in Scratch.
 The current version is version 0.1 beta.
 When I do release the full version (1.0), there will be an .HTML file for just opening and playing in the browser, and a .zip file with all the assets seperated (for website use only), as well as 16:9 aspect ratio files so the game can fit your screen (Scratch has a default of 4:3), and of course the normal archived source files that come with every release AND .sb3 files for opening in Scratch/TurboWarp (I think I will have a 16:9 version of that too, only playable in TurboWarp though).
