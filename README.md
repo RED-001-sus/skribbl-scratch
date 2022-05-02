@@ -74,4 +74,4 @@ This license shall automatically terminate if you violate any of these restricti
 
 # Credits: <a name="5"></a>
 
-All art assets and sounds (but one) are made by ticedev (on Twitter), and all code is by me, @3DSdev (on GitHub). "tick.wav" sampled from "Ticking Clock, A.wav" by InspectorJ of Freesound.org (https://www.freesound.org/people/InspectorJ/sounds/343130). 
+All art assets and sounds (but one) are made by ticedev (on Twitter), and all code is by me, @susbaconhairman (on GitHub). "tick.wav" sampled from "Ticking Clock, A.wav" by InspectorJ of Freesound.org (https://www.freesound.org/people/InspectorJ/sounds/343130). 
